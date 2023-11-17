@@ -18,3 +18,7 @@ app.use("/cards", cardRoutes);
 app.use("/transactions", transactionRoutes);
 
 app.listen(PORT)
+
+ // "build": "react-scripts build",
+    // "test": "react-scripts text",
+    // "eject": "react-scripts eject"
