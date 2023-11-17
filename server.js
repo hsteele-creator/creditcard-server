@@ -5,8 +5,6 @@ const authRoutes = require("./routes/authRoutes")
 const cardRoutes = require("./routes/cardRoutes")
 const transactionRoutes = require("./routes/transactionRoutes")
 
-console.log(process.env.PORT)
-
 const cors = require('cors')
 
 const express = require('express')

@@ -11,7 +11,7 @@
     "eject": "react-scripts eject"
   },
   "engines": {
-    "node": ">=6.9.0"
+    "node": "18.12.1"
   },
   "keywords": [],
   "author": "",
